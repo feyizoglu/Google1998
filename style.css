@@ -1,0 +1,33 @@
+.body {
+    text-align: center;
+    font-size: 18px;
+}
+.orta {
+    margin:10px 10%;
+}
+.orta2 {
+    margin:10px 10% 0 10%;
+    height: 90px;
+}
+.card {
+    height: 90px;
+    width: 33%;
+    float: left;
+    margin-right: 0.333333333%;
+    background-color:  rgb(98, 179, 170);
+}
+
+.footer {
+    margin: 10px 10%;
+}
+.first {
+    margin: 15px;
+}
+
+.second {
+    margin: 2px;
+}
+
+.third {
+    margin: 2px;
+}
